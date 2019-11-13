@@ -2,30 +2,33 @@
   "date": "November 13, 2019",
   "authors": [
     {
-      "github": "johndoe",
-      "name": "John Doe",
-      "initials": "JD",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "twitter": "johndoe",
-      "email": "john.doe@something.com",
+      "github": "vsmalladi",
+      "name": "Venkat S Malldi",
+      "initials": "VSM",
+      "orcid": "0000-0002-0144-0564",
+      "twitter": "katatonikkat",
+      "email": "venkat.malladi@utsouthwestern.edu",
       "affiliations": [
-        "Department of Something, University of Whatever"
+        "Department of Bioinformatics, University of Texas Southwestern Medical Center, Dallas, Texas, United States of America",
+        "Bioinformatics Core Facility, University of Texas Southwestern Medical Center, Dallas, Texas, United States of America"
       ],
-      "funders": "Grant XXXXXXXX",
+      "funders": "CPRIT RP150596",
       "affiliation_numbers": [
-        1
+        1,
+        2
       ]
     },
     {
-      "github": "janeroe",
-      "name": "Jane Roe",
-      "initials": "JR",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "email": "jane.roe@whatever.edu",
+      "github": "HollyRuess",
+      "name": "Holly Ruess",
+      "initials": "HR",
+      "orcid": "0000-0001-9148-6672",
+      "email": "holly.ruess@utsouthwestern.edu",
       "affiliations": [
-        "Department of Something, University of Whatever",
-        "Department of Whatever, University of Something"
+        "Department of Bioinformatics, University of Texas Southwestern Medical Center, Dallas, Texas, United States of America",
+        "Bioinformatics Core Facility, University of Texas Southwestern Medical Center, Dallas, Texas, United States of America"
       ],
+      "funders": "CPRIT RP150596",
       "affiliation_numbers": [
         1,
         2
@@ -34,11 +37,11 @@
   ],
   "affiliations": [
     {
-      "affiliation": "Department of Something, University of Whatever",
+      "affiliation": "Department of Bioinformatics, University of Texas Southwestern Medical Center, Dallas, Texas, United States of America",
       "affiliation_number": 1
     },
     {
-      "affiliation": "Department of Whatever, University of Something",
+      "affiliation": "Bioinformatics Core Facility, University of Texas Southwestern Medical Center, Dallas, Texas, United States of America",
       "affiliation_number": 2
     }
   ],
@@ -47,16 +50,16 @@
     "repo_slug": "utsw-bicf/manu-repro-workflows",
     "repo_owner": "utsw-bicf",
     "repo_name": "manu-repro-workflows",
-    "commit": "7de9b8dd701d5e02fbb21bdf6f48d0583101d342",
-    "triggering_commit": "7de9b8dd701d5e02fbb21bdf6f48d0583101d342",
-    "build_url": "https://travis-ci.com/utsw-bicf/manu-repro-workflows/builds/136235632",
-    "job_url": "https://travis-ci.com/utsw-bicf/manu-repro-workflows/jobs/255899891",
-    "manuscript_url": "https://utsw-bicf.github.io/manu-repro-workflows/v/7de9b8dd701d5e02fbb21bdf6f48d0583101d342/"
+    "commit": "2db438284e9468b70b8c0b777d1ac7ed9ce7b752",
+    "triggering_commit": "2db438284e9468b70b8c0b777d1ac7ed9ce7b752",
+    "build_url": "https://travis-ci.com/utsw-bicf/manu-repro-workflows/builds/136345002",
+    "job_url": "https://travis-ci.com/utsw-bicf/manu-repro-workflows/jobs/256152120",
+    "manuscript_url": "https://utsw-bicf.github.io/manu-repro-workflows/v/2db438284e9468b70b8c0b777d1ac7ed9ce7b752/"
   },
   "manuscript_stats": {
     "reference_counts": {
       "total": 0
     },
-    "word_count": 236
+    "word_count": 487
   }
 }
