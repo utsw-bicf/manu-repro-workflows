@@ -1,27 +1,31 @@
 ---
-title: "Manuscript Title"
+title: "Developing and maintaining reproducible workflows for bioinformatics data which are platform independent"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - nextflow
+  - pipelines
+  - continious integration
+  - docker
+  - singularity
 lang: en-US
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    github: vsmalladi
+    name: Venkat S Malldi
+    initials: VSM
+    orcid: 0000-0002-0144-0564
+    twitter: katatonikkat
+    email: venkat.malladi@utsouthwestern.edu
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
+      - Department of Bioinformatics, University of Texas Southwestern Medical Center, Dallas, Texas, United States of America
+      - Bioinformatics Core Facility, University of Texas Southwestern Medical Center, Dallas, Texas, United States of America
+    funders: CPRIT RP150596
   -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    github: HollyRuess
+    name: Holly Ruess
+    initials: HR
+    orcid: 0000-0001-9148-6672
+    email: holly.ruess@utsouthwestern.edu
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Department of Bioinformatics, University of Texas Southwestern Medical Center, Dallas, Texas, United States of America
+      - Bioinformatics Core Facility, University of Texas Southwestern Medical Center, Dallas, Texas, United States of America
+    funders: CPRIT RP150596
