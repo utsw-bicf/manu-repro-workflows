@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/utsw-bicf/manu-repro-workflows/tree/gh-pages) branch hosts the contents of this directory at https://utsw-bicf.github.io/manu-repro-workflows/.
-The permalink for this webpage version is https://utsw-bicf.github.io/manu-repro-workflows/v/2db438284e9468b70b8c0b777d1ac7ed9ce7b752/.
+The permalink for this webpage version is https://utsw-bicf.github.io/manu-repro-workflows/v/909573850b35c49da49c1343daaabb41735b81c7/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://utsw-bicf.github.io/manu-repro-workflows/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`2db438284e9468b70b8c0b777d1ac7ed9ce7b752`](https://github.com/utsw-bicf/manu-repro-workflows/commit/2db438284e9468b70b8c0b777d1ac7ed9ce7b752).
+[`909573850b35c49da49c1343daaabb41735b81c7`](https://github.com/utsw-bicf/manu-repro-workflows/commit/909573850b35c49da49c1343daaabb41735b81c7).
