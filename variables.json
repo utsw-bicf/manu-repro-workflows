@@ -1,5 +1,5 @@
 {
-  "date": "November 13, 2019",
+  "date": "November 14, 2019",
   "authors": [
     {
       "github": "vsmalladi",
@@ -50,16 +50,16 @@
     "repo_slug": "utsw-bicf/manu-repro-workflows",
     "repo_owner": "utsw-bicf",
     "repo_name": "manu-repro-workflows",
-    "commit": "2db438284e9468b70b8c0b777d1ac7ed9ce7b752",
-    "triggering_commit": "2db438284e9468b70b8c0b777d1ac7ed9ce7b752",
-    "build_url": "https://travis-ci.com/utsw-bicf/manu-repro-workflows/builds/136345002",
-    "job_url": "https://travis-ci.com/utsw-bicf/manu-repro-workflows/jobs/256152120",
-    "manuscript_url": "https://utsw-bicf.github.io/manu-repro-workflows/v/2db438284e9468b70b8c0b777d1ac7ed9ce7b752/"
+    "commit": "909573850b35c49da49c1343daaabb41735b81c7",
+    "triggering_commit": "909573850b35c49da49c1343daaabb41735b81c7",
+    "build_url": "https://travis-ci.com/utsw-bicf/manu-repro-workflows/builds/136539509",
+    "job_url": "https://travis-ci.com/utsw-bicf/manu-repro-workflows/jobs/256614898",
+    "manuscript_url": "https://utsw-bicf.github.io/manu-repro-workflows/v/909573850b35c49da49c1343daaabb41735b81c7/"
   },
   "manuscript_stats": {
     "reference_counts": {
       "total": 0
     },
-    "word_count": 487
+    "word_count": 498
   }
 }

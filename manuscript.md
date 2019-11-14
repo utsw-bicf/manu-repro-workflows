@@ -2,7 +2,7 @@
 author-meta:
 - Venkat S Malldi
 - Holly Ruess
-date-meta: '2019-11-13'
+date-meta: '2019-11-14'
 keywords:
 - nextflow
 - pipelines
@@ -21,10 +21,10 @@ title: Developing and maintaining reproducible workflows for bioinformatics data
 
 <small><em>
 This manuscript
-([permalink](https://utsw-bicf.github.io/manu-repro-workflows/v/2db438284e9468b70b8c0b777d1ac7ed9ce7b752/))
+([permalink](https://utsw-bicf.github.io/manu-repro-workflows/v/909573850b35c49da49c1343daaabb41735b81c7/))
 was automatically generated
-from [utsw-bicf/manu-repro-workflows@2db4382](https://github.com/utsw-bicf/manu-repro-workflows/tree/2db438284e9468b70b8c0b777d1ac7ed9ce7b752)
-on November 13, 2019.
+from [utsw-bicf/manu-repro-workflows@9095738](https://github.com/utsw-bicf/manu-repro-workflows/tree/909573850b35c49da49c1343daaabb41735b81c7)
+on November 14, 2019.
 </em></small>
 
 ## Authors
@@ -65,6 +65,15 @@ Git projects allow us to maintain version control and test new development with 
 Nextflow provides the features necessary to run workflows on a high-performance compute cluster using a scheduler (e.g. SLURM or SGE) allowing for parallel and serial jobs simultaneously, as well as handling fail states and resuming failed jobs.
 Singularity containers allow for the implementation of the workflow across various computing environment (e.g. local server, cluster, or cloud-computing platforms), while maintaining versions of programs within a given pipeline or step, and minimizing the effect of inter-platform differences.
 We will be discussing the challenges and successes of integrating the above components into making our BICF ChiP-seq Analysis Workflow (doi:10.5281/zenodo.2648844).
+
+
+## Introduction {.page_break_before}
+
+
+## Discussion {.page_break_before}
+
+
+## Materials and Methods {.page_break_before}
 
 
 ## References {.page_break_before}
